@@ -1,0 +1,2 @@
+../src/3_gpio_salida_3.c:12:5:main	24	static
+../src/3_gpio_salida_3.c:46:6:delay	16	static
