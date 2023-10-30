@@ -1,0 +1,6 @@
+C:\Users\2001t\Documents\MCUXpressoIDE_11.8.0_1165\workspace\CMSISv2p00_LPC17xx\inc/core_cm3.h:928:22:NVIC_EnableIRQ	16	static
+../src/6_interrupciones_gpio.c:23:5:main	8	static
+../src/6_interrupciones_gpio.c:38:6:ConfigGPIOInt	8	static
+../src/6_interrupciones_gpio.c:57:6:EINT1_IRQHandler	16	static
+../src/6_interrupciones_gpio.c:69:6:EINT2_IRQHandler	16	static
+../src/6_interrupciones_gpio.c:81:6:retardo	24	static
